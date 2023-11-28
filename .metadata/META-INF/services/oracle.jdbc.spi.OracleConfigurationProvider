@@ -1,0 +1,2 @@
+oracle.jdbc.driver.OracleConfigurationJsonFileProvider
+oracle.jdbc.driver.OracleConfigurationJsonHttpsProvider
